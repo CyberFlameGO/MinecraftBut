@@ -7,7 +7,7 @@ The YouTubers spawn in a small world with the option to apply multiple different
 [Join the Discord](https://discord.gg/fx9Kg5N) (Note: You must be 13 years of age or older to use Discord)
 
 ## Reddit
-[/r/MinecratBut](https://www.reddit.com/r/MinecratBut) (yes we know it's misspelt)
+[/r/MCBut](https://www.reddit.com/r/MCBut)
 
 ## Don't wanna set up the plugin yourself?
 Join my server `play.minecraftbut.net` where you can play arcade games with friends and play MinecraftBut, as well as regularly hosted events.
